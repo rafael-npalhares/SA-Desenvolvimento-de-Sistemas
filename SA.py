@@ -1,3 +1,4 @@
+#SA
 pessoas = []
 senhas = []
 
